@@ -5,7 +5,7 @@
 
 
 ## Links
-[![Codewars]](https://www.codewars.com/users/Nyksy)
+![Codewars](https://www.codewars.com/users/Nyksy)
 <!--
 **nyksy/nyksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
