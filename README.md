@@ -3,6 +3,9 @@
 ### Spotify - Vibin' to:
 [![Spotify](https://novatorem.nyksy.vercel.app/api/spotify)](https://open.spotify.com/playlist/2eWMsThzyLUMMePDjpKDTt)
 
+
+## Links
+[![Codewars]](https://www.codewars.com/users/Nyksy)
 <!--
 **nyksy/nyksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
