@@ -1,7 +1,7 @@
 ### Welcome!
 
 
-[![Spotify](https://juippi71.vercel.app/api/spotify)](https://open.spotify.com/user/juippi71)
+[![Spotify](https://nyksy.vercel.app/api/spotify)](https://open.spotify.com/user/juippi71)
 
 <!--
 **nyksy/nyksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
