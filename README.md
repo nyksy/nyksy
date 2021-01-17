@@ -7,3 +7,7 @@
 
 [Linkedin](https://www.linkedin.com/in/juho-nykanen-cs/)
 [CodeWars](https://www.codewars.com/users/Nyksy)
+
+### Currently working on
+
+[skripti.org](https://skripti.org/)
