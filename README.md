@@ -1,5 +1,7 @@
 # Juho Nykänen
 
+<img src="joensuu-roads.png" width="100%" />
+
 ## Connect
 
 <div align="center">
