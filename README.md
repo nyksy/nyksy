@@ -2,6 +2,8 @@
 
 <img src="joensuu-roads.png" width="100%" />
 
+<img src="https://projecteuler.net/profile/nyksy.png" />
+
 ## Connect
 
 <div align="center">
