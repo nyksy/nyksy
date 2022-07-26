@@ -2,7 +2,7 @@
 
 <img src="joensuu-roads.png" width="100%" />
 
-<img src="https://projecteuler.net/profile/nyksy.png" />
+<a href="https://projecteuler.net/about" target="_blank"><img src="https://projecteuler.net/profile/nyksy.png" /></a>
 
 ## Connect
 
