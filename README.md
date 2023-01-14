@@ -9,7 +9,7 @@
 **Low code**
 [![OutSystems](https://img.shields.io/badge/-OutSystems-red?style=for-the-badge&logo=Okta&logoColor=white)](https://www.outsystems.com/profile/cdtgomgxbj/) ![PowerApps](https://img.shields.io/badge/-PowerApps-blueviolet?style=for-the-badge&logo=PowerApps) ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=for-the-badge&logo=Webflow)
 
-**Front-end**
+**Frontend**
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black) ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=MaterialDesign&logoColor=white)
 
 **Backend**
