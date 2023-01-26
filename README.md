@@ -8,7 +8,7 @@
 
 ### Low code
 
-[![OutSystems](https://img.shields.io/badge/-OutSystems-red?style=for-the-badge&logo=Okta&logoColor=white)](https://www.outsystems.com/profile/cdtgomgxbj/) ![PowerApps](https://img.shields.io/badge/-PowerApps-blueviolet?style=for-the-badge&logo=PowerApps) ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=for-the-badge&logo=Webflow)
+[![OutSystems](https://img.shields.io/badge/-OutSystems-ff2400?style=for-the-badge&logo=Okta&logoColor=white)](https://www.outsystems.com/profile/cdtgomgxbj/) ![PowerApps](https://img.shields.io/badge/-PowerApps-blueviolet?style=for-the-badge&logo=PowerApps) ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=for-the-badge&logo=Webflow)
 
 ### Frontend
 
