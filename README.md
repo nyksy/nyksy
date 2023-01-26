@@ -1,6 +1,6 @@
 # [Juho Nykänen](mailto:juho.nykanen@hotmail.fi)
 
-[![Associate reactive developer](associateReactiveDeveloper.png)](https://www.outsystems.com/profile/cdtgomgxb) [![Alt text](badge-7227.png)](https://bcert.me/szglztoxg) [![Project Euler](https://projecteuler.net/profile/nyksy.png)](https://projecteuler.net/about)
+[![Associate reactive developer](associateReactiveDeveloper.png)](https://www.outsystems.com/profile/cdtgomgxb) [![Alt text](frontend.png)](https://bcert.me/szglztoxg) [![Alt text](badge-7227.png)](https://bcert.me/szglztoxg) [![Project Euler](https://projecteuler.net/profile/nyksy.png)](https://projecteuler.net/about)
 
 [![Chess.com](https://www.chess.com/share/user/nyksy)](https://www.chess.com/member/nyksy)
 
