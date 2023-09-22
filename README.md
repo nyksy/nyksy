@@ -28,6 +28,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juho-nykanen-cs) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nykanen) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juho.nykanen@hotmail.fi) [![Discord](https://img.shields.io/badge/-Discord-grey?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/263733073940709384)
 -->
 
-<iframe style="width:640px;height:480px;border:0px;" src="https://cables.gl/view/64f0f8f0b57e8645cfb9193c"></iframe>
-
 <!-- TODO ## Projects & stuff -->
+
+![Diy dog](img/diydog.png)
+
+![omstart](img/omstart.png)
+
+![ytp](img/ytp.png)
