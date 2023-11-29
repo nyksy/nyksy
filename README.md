@@ -29,9 +29,10 @@
 -->
 
 <!-- TODO ## Projects & stuff -->
-
+<!--
 ![Diy dog](img/diydog.png)
 
 ![omstart](img/omstart.png)
 
 ![ytp](img/ytp.png)
+-->
